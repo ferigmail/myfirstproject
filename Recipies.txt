@@ -2,3 +2,6 @@ Hello to the Kitchen
 
 cucumber
 carrot
+
+apple
+turnip
