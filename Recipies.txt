@@ -6,12 +6,11 @@ carrot
 apple
 turnip
 
-HHHHHH
-DDDDDD
-
 banana
 garlic
 
 pear
 pea
 it has to be a new format
+
+hey u, need more practice
